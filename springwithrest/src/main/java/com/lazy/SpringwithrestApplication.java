@@ -8,6 +8,8 @@ public class SpringwithrestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringwithrestApplication.class, args);
+		
+		System.out.println("this is Git hub Entry");
 	}
 
 }
